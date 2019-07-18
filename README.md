@@ -118,7 +118,7 @@ _____
 * Derek Goldstone - [UC Berkeley Extension](https://www.linkedin.com/in/derek-goldstone-482884a3/)
 * Matthew Hagarty - [UC Berkeley Extension](https://github.com/matthewryanhagarty)
 
-<b> ### Honorable Mention</b>
+<b> Honorable Mention</b>
 
 Logo Creation Credits: Matthew Hagarthy
 ___
